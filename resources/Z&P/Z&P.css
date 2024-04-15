@@ -1,0 +1,63 @@
+* {
+    background-color: slategray;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: aliceblue;
+}
+
+h1 {
+    text-align: center;
+    font-size: 60px;
+    color: aliceblue;
+    margin: 0;
+}
+
+h2 {
+    text-align: center;
+    font-size: 40px;
+    color: aliceblue;
+    margin-top: 0;
+}
+
+nav {
+    text-align: center;
+}
+
+img {
+    float: left;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    top: 0;
+    border: 1px solid grey;
+    font-size: 30px;
+       }
+
+  li {
+    display: inline-block;
+    border-right: 1px solid grey;
+    background-color: gray;
+  }
+  
+  li a {
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    color: white;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  li a:hover {
+    background-color: lightgrey;
+  }
+
+  p {
+    text-align: center;
+    margin-left: 25;
+    font-size: 25px;
+}

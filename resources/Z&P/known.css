@@ -1,0 +1,25 @@
+* {
+    background-color: slategray;
+    color: aliceblue;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+h2 {
+    font-size: 50px;
+}
+
+h3 {
+    font-size: 45px;
+}
+
+h4 {
+    font-size: 40px;
+}
+
+li {
+    font-size: 35px;
+}
